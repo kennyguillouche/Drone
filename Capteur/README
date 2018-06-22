@@ -1,1 +1,11 @@
 
+Le dossier contient 4 programme lié aux capteurs.
+
+** Programme test capteur son 
+** Programme test capteur de lumières
+** Programme test acceléromètre 
+** Le programme final
+
+Le programme demo correspond au programme final. Il contient la transmission bluetooth des trames des 3 capteurs.
+
+Nous avons utilisé un Nucleo F303K8 et les programmes ont été développé sur MBED.
